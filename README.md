@@ -1,2 +1,1 @@
-# firma-api
-firma-api
+# product-api
